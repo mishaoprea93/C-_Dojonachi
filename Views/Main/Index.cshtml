@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="~/css/stylesheet.css" />
+    <title>Dojonachi</title>
+</head>
+
+<body>
+
+    <div class="main">
+        @{
+        <h1>Dojonachi</h1>
+        if(ViewBag.fullness ==null && ViewBag.meals==null && ViewBag.energy==null && ViewBag.happiness==null){
+        <h3>Fullness:20 Happiness:20 Meals:3 Energy:50</h3>
+
+        }else{
+        <h3>Fullness:@ViewBag.fullness Happiness:@ViewBag.happiness Meals:@ViewBag.meals Energy:@ViewBag.energy</h3>
+        } bool win=true; bool loose=true; if(ViewBag.energy >=100 && ViewBag.fullness >= 100 && ViewBag.happiness ){ win=false; ViewBag.message="You Won!";}else if(ViewBag.fullness
+        <=0 || ViewBag.happiness <=0){ loose=false; ViewBag.message="Your Dojonachi has passed away..." ; } <div class="main-box">
+            <div class="center">
+
+            </div>
+            <h3>@ViewBag.message</h3>
+    </div>
+    if(win==false || loose==false){
+    <form action="/">
+        <button type="submit" formaction="/win-lost">Restart!</button> </form>} else{
+    <form action="/">
+        <button type="submit" formaction="/feed">Feed</button>
+        <button type="submit" formaction="/play">Play</button>
+        <button type="submit" formaction="/work">Work</button>
+        <button type="submit" formaction="/sleep">Sleep</button>
+    </form>
+    } }
+    </div>
+
+</body>
+
+</html>

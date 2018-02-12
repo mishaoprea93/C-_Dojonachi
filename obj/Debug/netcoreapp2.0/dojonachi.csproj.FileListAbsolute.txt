@@ -1,0 +1,10 @@
+/Users/mishanea/Documents/Coding_Dojo/c#_stack/C#_net.Core/dojonachi/bin/Debug/netcoreapp2.0/dojonachi.deps.json
+/Users/mishanea/Documents/Coding_Dojo/c#_stack/C#_net.Core/dojonachi/bin/Debug/netcoreapp2.0/dojonachi.runtimeconfig.json
+/Users/mishanea/Documents/Coding_Dojo/c#_stack/C#_net.Core/dojonachi/bin/Debug/netcoreapp2.0/dojonachi.runtimeconfig.dev.json
+/Users/mishanea/Documents/Coding_Dojo/c#_stack/C#_net.Core/dojonachi/bin/Debug/netcoreapp2.0/dojonachi.dll
+/Users/mishanea/Documents/Coding_Dojo/c#_stack/C#_net.Core/dojonachi/bin/Debug/netcoreapp2.0/dojonachi.pdb
+/Users/mishanea/Documents/Coding_Dojo/c#_stack/C#_net.Core/dojonachi/obj/Debug/netcoreapp2.0/dojonachi.csproj.CoreCompileInputs.cache
+/Users/mishanea/Documents/Coding_Dojo/c#_stack/C#_net.Core/dojonachi/obj/Debug/netcoreapp2.0/dojonachi.AssemblyInfoInputs.cache
+/Users/mishanea/Documents/Coding_Dojo/c#_stack/C#_net.Core/dojonachi/obj/Debug/netcoreapp2.0/dojonachi.AssemblyInfo.cs
+/Users/mishanea/Documents/Coding_Dojo/c#_stack/C#_net.Core/dojonachi/obj/Debug/netcoreapp2.0/dojonachi.dll
+/Users/mishanea/Documents/Coding_Dojo/c#_stack/C#_net.Core/dojonachi/obj/Debug/netcoreapp2.0/dojonachi.pdb
